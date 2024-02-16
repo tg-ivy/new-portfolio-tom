@@ -1,8 +1,19 @@
-# React + Vite
+# Portfolio of Work
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+Welcome to my portfolio of work. This project will be added to and altered as I udate it with improved projects that focus more heavily on React and APIs. This project is live deployed on Git Pages. The live deployment can be viewed [here](https://tg-ivy.github.io/new-portfolio-tom/). Below is an attached screenshot.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![A screenshot of the full webpage](./src/assets/portfolio-screenshot.png)
+
+## Installation
+
+To install this project onto your own system, you can fork the repo and clone it to your system. Once cloned, make sure to enter the "npm install" command into the terminal to install the neccessary packages. 
+
+## Credits
+
+edX Front-End Web Development Bootcamp
+
+## License
+
+Refer to the LICENSE in the repo.
